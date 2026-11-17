@@ -1,8 +1,8 @@
-# Leo Saraceni🛡️Cyber Marketing 
+# Leo Saraceni 🛡️ Cyber Marketing
 
 **Head of Product & Field Marketing at [LevelBlue](https://levelblue.com), one of the largest managed security services providers in the world.**
 
-I've spent about 20 years marketing cybersecurity: MDR, incident response, threat intelligence, and the messy work of turning technical services into stories buyers believe. I'm a marketer who builds. Outside my day job, I advise brands of all sizes on marketing strategy: growth, brand building, positioning, and digital marketing. I also like to build things, and lately that means using AI to create the tools marketing teams actually use. You'll find those experiments in my [repositories](https://github.com/YOUR-USERNAME?tab=repositories).
+I've spent about 20 years marketing cybersecurity: MDR, incident response, threat intelligence, and the messy work of turning technical services into stories buyers believe. Outside my day job, I advise brands of all sizes on marketing strategy: growth, brand building, positioning, and digital marketing. I also like to build things, and lately that means using AI to create the tools marketing teams actually use. You'll find those experiments in my [repositories](https://github.com/leosaraceni?tab=repositories).
 
 ---
 
